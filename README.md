@@ -16,4 +16,4 @@ pawoiefoawefj
 ## How to contribute
 Please fork this repo and then issue Pull Requests for review.
 
-2024 Git.Training.
+2024 Git.Training. All rights reserved.
