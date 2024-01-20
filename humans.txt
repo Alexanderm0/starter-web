@@ -11,6 +11,6 @@
     Leaving a review, very good course!
 
 # TECHNOLOGY COLOPHON
-
+    Git
     HTML5, CSS3
     jQuery, Modernizr
