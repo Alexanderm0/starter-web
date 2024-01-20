@@ -12,5 +12,6 @@ More but previous not committed.
 pawoiefoawefj
 
 ## How to contribute
+Please fork this repo and then issue Pull Requests for review.
 
 2024 Git.Training.
