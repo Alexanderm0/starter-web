@@ -12,3 +12,5 @@ More but previous not committed.
 pawoiefoawefj
 
 ## How to contribute
+
+2024 Git.Training.
