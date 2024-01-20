@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ali Mohammed ajeafij@moskee.nl @moskee
 
 # THANKS
 
